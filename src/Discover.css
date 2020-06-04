@@ -6,9 +6,8 @@
 
 .Discover-Places {
     display: flex;
-    justify-content: space-evenly;
     flex-wrap: nowrap;
-    margin-left: 150px;
+    margin-left: 40px;
 }
 
 .Discover-Options {
