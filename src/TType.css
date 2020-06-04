@@ -1,0 +1,46 @@
+.TType-Clicked {
+    background-color: darkorange;
+    width: 100px;
+    height: auto;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.2);
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.TType {
+    background-color: white;
+    width: 100px;
+    height: auto;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.2);
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.TType-Symbol {
+    background-color: whitesmoke;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.2);
+    width: 60px;
+    height: 50px;
+    border-radius: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.TType-Name {
+    font-weight: 50;
+    margin-bottom: 30px;
+}
+

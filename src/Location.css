@@ -1,0 +1,49 @@
+.Location-Container {
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Location-Image {
+    width: 200px;
+    height: 275px;
+    border-radius: 30px;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.2);
+}
+
+.Location-InsideContainer {
+    top: 70%;
+    left: 10%;
+    /* right: 25%; */
+    position: absolute;
+}
+
+.Location-H1 {
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.Location-H2 {
+    font-size: 15px;
+    color: lightgray;
+    text-align: left;
+    margin-top: 0px;
+}
+
+.Location-Rating {
+    top: 5%;
+    right: 10%;
+    position: absolute;
+    font-size: 22px;
+    color: lightgray;
+    width: 50px;
+    height: 40px;
+    background-color: rgba(150, 150, 150, 0.7);
+    border: white 2px solid;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 25;
+}

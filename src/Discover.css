@@ -1,0 +1,21 @@
+.Discover-Heading {
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+
+.Discover-Places {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    margin-left: 150px;
+}
+
+.Discover-Options {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 5px;
+}

@@ -1,0 +1,13 @@
+.Option {
+    font-size: 20px;
+    color: rgb(100, 100, 100, 0.4);
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.Option-Clicked {
+    font-size: 20px;
+    color: darkorange;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}

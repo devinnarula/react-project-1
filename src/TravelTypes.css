@@ -1,0 +1,9 @@
+.TravelTypes-Heading {
+    margin-left: 50px;
+}
+
+.TravelTypes-Types {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 40px;
+}
