@@ -8,7 +8,7 @@ import TopMenu from './TopMenu';
 function App() {
   return (
     <div>
-      <div className="App">
+      <div className="App-Right">
         <TopMenu />
         <Discover />
         <TravelTypes />
